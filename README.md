@@ -37,7 +37,10 @@ Os dados utilizados no dashboard incluem:
 ---
 
 ## 📷 Visual do Dashboard
+<img src="https://github.com/wesleyorrr/PowerBI/blob/main/5.png" height="300" />
 
+
+---
 
 ## 💡 Objetivos do Dashboard
 
